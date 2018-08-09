@@ -1,0 +1,21 @@
+body {
+    color: red;
+ }
+
+ body { color: blue; }
+
+ body { color: green; }
+
+ .parrafo { color: red }
+ .peligro { background: pink; }
+ .alerta { background: yellow; }
+ .texto { color:blue; }
+
+ .texto:nth-child(odd) {
+    background: pink;
+    }
+    
+    .texto:nth-child(even) {
+    background:yellowgreen;
+    }
+    
